@@ -24,7 +24,7 @@ import bedroomImg from "@/assets/IMG_0621.jpeg";
 import bedroomImg2 from "@/assets/IMG_0624.png";
 import terraceImg from "@/assets/terme.jpg";
 import hikingImg from "@/assets/cascata.jpeg";
-import winterImg from "@/assets/courmayeur.jpg.jpg";
+import winterImg from "@/assets/skyway.webp";
 import cultureImg from "@/assets/fenis.jpg";
 
 const BOOKING_URL = "https://www.booking.com/hotel/it/casa-per-vacanze-degli-gnomi.it.html?aid=2311236&label=it-it-booking-desktop-new-VRZD0IC5lt9Ulq%2AajTZ_bgS652828999642%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp1008047%3Ali%3Adec%3Adm&sid=1f5c352bc70a008db49fc781dd66b255&dest_id=8861545&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1779971261&srpvid=0e9f5799668b03e3&type=total&ucfs=1&#tab-main";
